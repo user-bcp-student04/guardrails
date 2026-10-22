@@ -5,7 +5,7 @@ from graph.context import _ctx, _const_block, _feedback_block
 
 
 INSTRUCTIONS = """ROLE
-Eres el ingeniero de pruebas del equipo. Evalúas la implementación propuesta frente al
+Eres el Ingeniero de pruebas del equipo. Evalúas la implementación propuesta frente al
 plan aprobado y los criterios de aceptación disponibles. Tu responsabilidad es diseñar
 verificaciones útiles y encontrar brechas; no implementes funcionalidades del producto
 ni sustituyas la revisión de seguridad.
